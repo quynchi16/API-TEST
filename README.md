@@ -126,7 +126,7 @@ Request được thực hiện thành công. API trả về thông tin dữ li�
 
 ### Hình ảnh kết quả
 
-![POST Request](images/post.png)
+![POST Request](images/post.png.png)
 
 ---
 
@@ -165,7 +165,7 @@ Response chứa dữ liệu sau khi cập nhật.
 
 ### Hình ảnh kết quả
 
-![PUT Request](images/put.png)
+![PUT Request](images/put.png.png)
 
 ---
 
@@ -193,7 +193,7 @@ Request được xử lý thành công.
 
 ### Hình ảnh kết quả
 
-![DELETE Request](images/delete.png)
+![DELETE Request](images/delete.png.png)
 
 ---
 
@@ -229,7 +229,7 @@ pm.test("Response has title", function () {
 
 Kết quả các test đều PASS.
 
-![Test Script](images/test.png)
+![Test Script](images/test.png.png)
 
 ---
 
@@ -315,7 +315,7 @@ Kết quả:
 
 Điều này cho thấy API có phản hồi phù hợp khi yêu cầu dữ liệu không tồn tại.
 
-![Negative Testing](images/404.png)
+![Negative Testing](images/404.png.png)
 
 ---
 
@@ -338,7 +338,7 @@ Kết quả:
 * Các Test Script đã thiết lập đều được Postman kiểm tra.
 * Các test hợp lệ đều PASS.
 
-![Collection Runner](images/runner.png)
+![Collection Runner](images/runner.png.png)
 
 ---
 
