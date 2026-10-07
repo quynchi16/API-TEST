@@ -1,12 +1,14 @@
 # BÁO CÁO TÌM HIỂU VÀ KIỂM THỬ API BẰNG POSTMAN
 
 ## 1. Thông tin
-* **Họ và tên:** Đỗ Quỳnh Chi 
+
+* **Họ và tên:** Đỗ Quỳnh Chi
 * **MSSV:** 23010618
 * **Công cụ:** Postman
 * **API sử dụng:** JSONPlaceholder
 
 ## 2. Mục tiêu
+
 Bài thực hành nhằm tìm hiểu cách sử dụng công cụ Postman để kiểm thử API.
 
 Các nội dung thực hiện:
@@ -94,7 +96,7 @@ Response trả về thông tin bài viết:
 
 ### Hình ảnh kết quả
 
-![GET Request](images/get.png)
+![GET Request](images/get.png.png)
 
 ---
 
@@ -237,7 +239,7 @@ Kết quả các test đều PASS.
 
 Các nội dung kiểm tra:
 
-* Kiểm tra Status Code.
+* Kiểm tra Status Code bằng 201.
 * Kiểm tra Response có trường `title`.
 * Kiểm tra Response có trường `userId`.
 
